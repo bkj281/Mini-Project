@@ -1,0 +1,16 @@
+body {
+    font-size: 20px;
+    text-align: center;
+}
+h1 {
+    color: darkslateblue;
+    font-size: 4em;
+}
+#output {
+    font-size: 10em;
+}
+button {
+    width: 7em;
+    height: 2em;
+    margin: 8px;
+}
